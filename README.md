@@ -1,3 +1,4 @@
 # google-homepage
 Project title: Google Homepage
-http://www.theodinproject.com/web-development-101/html-css?ref=lnav 
+
+I'm so proud of myself rn omg
