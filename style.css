@@ -22,12 +22,10 @@ html, body {
 li {
 	display: inline-block;
 	padding-left: 20px;
-	vertical-align: middle;
 }
 
 img {
 	margin-top: 20px;
-	vertical-align: middle;
 }
 
 div.clear {
